@@ -60,5 +60,5 @@ The goal for each article is to have 8-10 pages of informative and on-point cont
 I estimate the time to research, compose, translate and prepare one article for publication to be about 1 month of full time work. Since I'm planning to write the articles alongside work and studies, my proposal is to dedicate about 3 months of 1/3 time committment to each article, totalling 9 months to complete the entire project. I'm assuming standard rates for an entry-level lawyer in Switzerland of CHF 75/h (~$78) and the EMA30 for price of Kusama at the time of submitting the discussion ($158/KSM).
 
 - Cost per article = (3 months * 160h * $78 * 1/3) / $158 ~= 79 KSM
-- Total cost = 3 articles * 74 KSM = 237 KSM
+- Total cost = 3 articles * 79 KSM = 237 KSM
 

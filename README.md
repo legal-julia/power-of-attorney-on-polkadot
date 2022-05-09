@@ -29,36 +29,52 @@ I have 4 topics in mind for the articles, although the scope of the proposal wil
 
 1. Patient medical records: current technology overview, upcoming challenges and an outlook of how Polkadot could come to the rescue.
 
+2. How cryptography could help overcome privacy concerns in gene-sequencing: using zero-knowledge and encrypted computation for secure gene analysis with the help of a zero-knowledge parachain on Polkadot.
+
+3. On-chain Power of Attorney: potential benefits for the Swiss legal system.
+
+4. Risk-free patent applications: using commit-reveal for patent protection
+
+The goal for each article is to have 8-10 pages of informative and on-point content (incl. legal and technological aspects), plus additional pages for references & appendix, if needed.
+
+## Deliverables
+
+I estimate the time to research, compose, translate and prepare one article for publication to be about 1 month of full time work. Since I'm planning to write the articles alongside work and further education, my proposal is to dedicate about 3 months of 1/3 time committment to each article, totalling 9 months to complete the entire project. I'm assuming standard rates for an entry-level lawyer in Switzerland of CHF 75/h (~$78).
+
+- Cost per article = (3 months * 160h * 75 CHF * 1/3) = 12,000 CHF
+- Total cost = 3 articles * 12,000 = 36,000 CHF
+
+For each article, I estimate the structure to be the following:
+- Time allocation: 160h
+- Deliverables:
+  * Research and write-up of the article body: 150h
+  * Translation (in parallel with the writing): 5h
+  * Preparation for journal submission: 5h
+
+### Article #1
+Patient medical records: current technology overview, upcoming challenges and an outlook of how Polkadot could come to the rescue.
 - lack of a unified database for medical records
 - on-chain patient consent and revokations for medical institutions - is private key ownership synonymous with full data access?
 - off-chain database shared among the institutions (e.g. hospitals and clinics), and its legal and administrative challenges
 
-2. How cryptography could help overcome privacy concerns in gene-sequencing: using zero-knowledge and encrypted computation for secure gene analysis with the help of a zero-knowledge parachain on Polkadot.
-
+### Article #2
+How cryptography could help overcome privacy concerns in gene-sequencing: using zero-knowledge and encrypted computation for secure gene analysis with the help of a zero-knowledge parachain on Polkadot.
 - why is privacy important in gene sequencing: presenting the worst-case scenario from the citizen's point of view
 - the need for (some) trusted parties to operate the sequencing equipment and how regulation could help anonymise people's data
 - on-chain proofs of correct computation
 
-3. On-chain Power of Attorney: potential benefits for the Swiss legal system.
-
+### Article #3
+On-chain Power of Attorney: potential benefits for the Swiss legal system.
 - how is PoA currently enforced in Switzerland, who benefits from it and who can abuse it?
 - private key ?= full access revisited: a need for additional, trusted verification (or else take all my money)
 - a partially government-controlled blockchain - pros and cons
 - encrypted 'allow-revoke' mechanism, reveleable only to selected parties, by the means of substrate chain and a user-friendly app.
 
-4. Risk-free patent applications: using commit-reveal for patent protection
-
+### Article #4 (optional)
+Risk-free patent applications: using commit-reveal for patent protection
 - the paradox of trusting the authority: how protecting your patent means automatically revealing it?
 - preventing DoP (Denial of Patent) by requiring identity verification and/or fees
 - using on-chain commitmments to prevent patent theft
 - changing the legal structure around patent submission in order to acknowledge and enforce the on-chain data
 
-The goal for each article is to have 8-10 pages of informative and on-point content (incl. legal and technological aspects), plus additional pages for references & appendix, if needed.
-
-## Cost breakdown & timeline
-
-I estimate the time to research, compose, translate and prepare one article for publication to be about 1 month of full time work. Since I'm planning to write the articles alongside work and studies, my proposal is to dedicate about 3 months of 1/3 time committment to each article, totalling 9 months to complete the entire project. I'm assuming standard rates for an entry-level lawyer in Switzerland of CHF 75/h (~$78) and the EMA30 for price of Kusama at the time of submitting the discussion ($158/KSM).
-
-- Cost per article = (3 months * 160h * $78 * 1/3) / $158 ~= 79 KSM
-- Total cost = 3 articles * 79 KSM = 237 KSM
-
+As noted earlier, these are the four proposals I'm bringing to the table, and will let the Kusama community choose 3 of them for me to focus on.

@@ -2,30 +2,34 @@
 
 ## Summary
 
-Privacy-preserving legal transformation: case study of the Polkadot ecosystem within the context of Swiss law.
+Privacy-preserving legal transformation: case study of Power-of-Attorney within the Polkadot ecosystem.
 
-The aim of the work is to provide a legal framework for lawmakers and professionals in the medical environment within the Swiss juridical system; to inform and prepare for the upcoming privacy-preserving technology; and finally to propose concrete solutions and guidelines for the governmental authorities.
+The aim of the work is to provide a legal framework for lawmakers and professionals within the Swiss & EU juridical systems; to inform and prepare for the upcoming privacy-preserving technology; and finally to propose concrete solutions and guidelines for the governmental authorities.
 
 ## About me
 
 My name is Julia Stempfel, a recent law graduate with an interest in digital as well as medical aspects of the law.
 
-Currently I am exploring the intersection between the legal and medical aspects of the Swiss health system as a student of MedLaw, to obtain a Certificate of Advanced Studies from University of Zurich. In addition, I'm a full-time employee in law firm, specialising in medical and digitisation cases: for individuals, businesses and institutions incl. hospitals.
+Currently I am exploring the intersection between the legal and medical aspects of the Swiss health system as a student of University of Zurich, where I'm studying MedLaw to obtain a Certificate of Advanced Studies, with my final thesis being on blockchain use cases in medicine. In addition, I'm a full-time employee in law firm, specialising in medical and digitisation cases: for individuals, businesses and institutions incl. hospitals.
 
-In my spare time, I like to deep-dive into the recent technical advancements, especially with a potential to transform the legal system. One year ago I was introduced to Polkadot and independently, to zero-knowledge protocols, and it didn't take long to realise that putting the two together could bring profound changes to how the citizens' data is handled.
+In my spare time, I like to deep-dive into the recent technical advancements, especially with a potential to transform the legal system. Almost two years ago I was introduced to Polkadot and independently, to zero-knowledge protocols, and it didn't take long to realise that putting the two together could bring profound changes to how the citizens' data is handled.
 
 Like all new technological innovations, this one too needs a strong legal framework to operate in, both to expand the available market, but most importantly to make users aware of its benefits and shortcomings.
 
 
 ## Proposal details
 
-In this proposal I intend to start bridging the recent gap in the Swiss regulations regarding blockchain technology. Even though our government is on the forefront of regulation regarding the topic (e.g. some Kantons let you pay tax in cryptocurrencies, a clear distinction exists between utility and security tokens, etc.), there have been no indications on how to deal with confidential data handling, including zero-knowledge protocols. I would like to analyse the Polkadot ecosystem as a case study for privacy-enabling computation within the framework of Swiss legal system. While I do not have any background in cryptography, I am comfortable reading at a high-level about how blockchain works. I will try to cover the technical parts by myself, but if needed, can reach out to colleagues at ETH Zurich for a more technical description.
+In this proposal I intend to start bridging the recent gap in the regulations regarding blockchain technology. Among the myriad of applications of the tech to a legal framework, I think a particularly appealing one is providing legislation for an on-chain Power of Attorney. Due to its relative simplicity from the technical execution perspective (relative: e.g. to issuing digital identities to all the country's citizens), it can be considered somewhat of a low-hanging fruit. Blockchain community is yet to demonstrate a working and useful integration with the real world, and this would be a good candidate. I would like to analyse the Polkadot ecosystem as a case study for privacy-enabling computation. Its high level of programmability and the flexible governance structure make it a good candidate for the task. A government that is to adopt such a proposal would be easier to convince to build it out as a parachain, where such entity would have full control over the code, rather than simply launching a smart contract. Furthermore, the customizable parachain governance is a very appealing feature to an authority, and it can not be found in other blockchains.
 
-Akin to my previous work, I intend to publish all the articles written as part of this proposal in legal academic journals, such as weblaw.ch - the leading online legal publishing house. Last year I have submitted an extensive research article to Weblaw (86 pages), which can be found [here](https://www.weblaw.ch/competence/weblaw_inside/weblaw_aktuell/2022/2/neu_erschienen_stempfel.html) in German. For convenience, I have written an abstract in English which can be accessed on [my github](./abstract_GP_training_legal_guidance.md).
+While some countries within Europe will inevitably follow their own standards that fundamentally differ from the majority, most of the countires tend adopt a similar legal stance. The regulators in any country will in the end struggle with the same questions regarding digitising Power of Attorney. I aim to provide a general framework that can be used as a starting point for the regulators in any European country. I will base my concrete examples on the Swiss legal system, which I am most familiar with, and which is one of the most advanced in the field of regulating blockchain technology.
 
-While the original documents will be submitted on [Github](https://github.com/legal-julia/polkadot-in-swiss-law) in both English and German, due to the target audience requirements (Swiss legal professionals) the version for the journal will only be submitted in German. As with all academic journals, one cannot guarantee acceptance. I will exercise all my skills and resources to produce documents most likely to pass the peer review process.
+While I do not have any background in cryptography, I am comfortable reading at a high-level about how blockchain works. I will try to cover the technical parts by myself, but if needed, can reach out to colleagues at ETH Zurich, [Stack Exchange](https://substrate.stackexchange.com/) or the Polkadot/Kusama technical channels for a more in-depth description.
 
-I have 4 topics in mind for the articles, although the scope of the proposal will be limited to 3 for now - more can follow if the community (Polkadot as well as Swiss legal) response is positive. I would like to get the users' feedback here on the forum on which topics are most sought-after. In case of a lack of clear consensus, I'll make the pick myself when making the treasury proposal. Below are my current suggestions:
+Akin to my previous work, I intend to publish the article produced as part of this proposal in legal academic journals, such as weblaw.ch - the leading online legal publishing house. Last year I have submitted an extensive research article to Weblaw (86 pages), which can be found [here](https://www.weblaw.ch/competence/weblaw_inside/weblaw_aktuell/2022/2/neu_erschienen_stempfel.html) in German. For convenience, I have written an abstract in English which can be accessed on [my github](./abstract_GP_training_legal_guidance.md).
+
+The original documents will be submitted on [Github](https://github.com/legal-julia/polkadot-in-swiss-law). Due to the target audience requirements (Swiss academic journal) the version for the journal will only be submitted in German. As with all academic journals, one cannot guarantee acceptance. I will exercise all my skills and resources to produce documents most likely to pass the peer review process.
+
+Initially I had 4 topics in mind for the articles, although the scope of the proposal will be limited to 1 for now. Thanks to the feedback from the Kusama community (Matrix chat and a [Polkassembly post](https://kusama.polkassembly.io/post/1505)) I've decided to initially limit the proposal to 1 most popular article on Power of Attorney. More can follow if the community (Polkadot as well as legal) response is positive. For reference, I'm leaving the remaining topic suggestions below:
 
 1. Patient medical records: current technology overview, upcoming challenges and an outlook of how Polkadot could come to the rescue.
 
@@ -39,10 +43,10 @@ The goal for each article is to have 8-10 pages of informative and on-point cont
 
 ## Deliverables
 
-I estimate the time to research, compose, translate and prepare one article for publication to be about 1 month of full time work. Since I'm planning to write the articles alongside work and further education, my proposal is to dedicate about 3 months of 1/3 time committment to each article, totalling 9 months to complete the entire project. I'm assuming standard rates for an entry-level lawyer in Switzerland of CHF 75/h (~$78).
+I estimate the time to research, compose, translate and prepare one article for publication to be about 1 month of full time work. Since I'm planning to write the articles alongside work and further education, my proposal is to dedicate about 3 months of 1/3 time committent to each article, totalling 9 months to complete the entire project. I'm assuming standard rates for an entry-level lawyer in Switzerland of CHF 75/h (~$78).
 
 - Cost per article = (3 months * 160h * 75 CHF * 1/3) = 12,000 CHF
-- Total cost = 3 articles * 12,000 = 36,000 CHF
+- Total cost = 1 article * 12,000 = 12,000 CHF
 
 For each article, I estimate the structure to be the following:
 - Time allocation: 160h
@@ -52,29 +56,8 @@ For each article, I estimate the structure to be the following:
   * Preparation for journal submission: 5h
 
 ### Article #1
-Patient medical records: current technology overview, upcoming challenges and an outlook of how Polkadot could come to the rescue.
-- lack of a unified database for medical records
-- on-chain patient consent and revokations for medical institutions - is private key ownership synonymous with full data access?
-- off-chain database shared among the institutions (e.g. hospitals and clinics), and its legal and administrative challenges
-
-### Article #2
-How cryptography could help overcome privacy concerns in gene-sequencing: using zero-knowledge and encrypted computation for secure gene analysis with the help of a zero-knowledge parachain on Polkadot.
-- why is privacy important in gene sequencing: presenting the worst-case scenario from the citizen's point of view
-- the need for (some) trusted parties to operate the sequencing equipment and how regulation could help anonymise people's data
-- on-chain proofs of correct computation
-
-### Article #3
-On-chain Power of Attorney: potential benefits for the Swiss legal system.
-- how is PoA currently enforced in Switzerland, who benefits from it and who can abuse it?
-- private key ?= full access revisited: a need for additional, trusted verification (or else take all my money)
-- a partially government-controlled blockchain - pros and cons
-- encrypted 'allow-revoke' mechanism, reveleable only to selected parties, by the means of substrate chain and a user-friendly app.
-
-### Article #4 (optional)
-Risk-free patent applications: using commit-reveal for patent protection
-- the paradox of trusting the authority: how protecting your patent means automatically revealing it?
-- preventing DoP (Denial of Patent) by requiring identity verification and/or fees
-- using on-chain commitmments to prevent patent theft
-- changing the legal structure around patent submission in order to acknowledge and enforce the on-chain data
-
-As noted earlier, these are the four proposals I'm bringing to the table, and will let the Kusama community choose 3 of them for me to focus on.
+On-chain Power of Attorney: challenges and promises for a legal system.
+- How is PoA currently enforced in EU & Switzerland, who benefits from it and who can abuse it?
+- Private key ?= full access revisited: a need for additional, trusted verification (or else take all my money).
+- A partially government-controlled blockchain - pros and cons. Could a parachain be the solution?
+- Encrypted 'allow-revoke' mechanism, revealable only to selected parties, by the means of substrate chain and a user-friendly app.

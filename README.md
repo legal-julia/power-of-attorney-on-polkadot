@@ -53,7 +53,7 @@ For each article, I estimate the structure to be the following:
 - Deliverables:
   * Research and write-up of the article body: 150h
   * Translation (in parallel with the writing): 5h
-  * Preparation for journal submission: 5h
+  * Preparation for submission to an open-access journal: 5h
 
 ### Article #1
 On-chain Power of Attorney: challenges and promises for a legal system.

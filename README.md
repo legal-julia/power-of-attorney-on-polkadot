@@ -8,9 +8,9 @@ The aim of the work is to provide a legal framework for lawmakers and profession
 
 ## About me
 
-My name is Julia Stempfel, a recent law graduate with an interest in digital as well as medical aspects of the law.
+My name is Julia Stempfel, a legal professional (graduated 2021) with an interest in digital as well as medical aspects of the law.
 
-Currently I am exploring the intersection between the legal and medical aspects of the Swiss health system as a student of University of Zurich, where I'm studying MedLaw to obtain a Certificate of Advanced Studies, with my final thesis being on blockchain use cases in medicine. In addition, I'm a full-time employee in law firm, specialising in medical and digitisation cases: for individuals, businesses and institutions incl. hospitals.
+Throughout 2022 I've been exploring the intersection between the legal and medical aspects of the Swiss health system as a student of University of Zürich, where I was studying MedLaw to obtain a Certificate of Advanced Studies. I'm currently finishing my final thesis, which focuses on blockchain use cases in medicine. In addition, I'm a full-time employee in law firm, specialising in medical and digitisation cases: for individuals, businesses and institutions, incl. hospitals.
 
 In my spare time, I like to deep-dive into the recent technical advancements, especially with a potential to transform the legal system. Almost two years ago I was introduced to Polkadot and independently, to zero-knowledge protocols, and it didn't take long to realise that putting the two together could bring profound changes to how the citizens' data is handled.
 
